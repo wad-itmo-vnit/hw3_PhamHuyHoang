@@ -1,6 +1,9 @@
 # hw3_PhamHuyHoang
-Install:
+# Install:
+
 pip install -r requirements.txt
-Run:
+# Run:
+
 source hw3_venv/bin/activate
+
 python index.py
